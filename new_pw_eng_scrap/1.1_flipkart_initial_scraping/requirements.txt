@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+selenium
+
+# Note: Requires ChromeDriver for Selenium to work
+# Install ChromeDriver and ensure it's in your system PATH
